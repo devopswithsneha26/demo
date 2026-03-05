@@ -1,0 +1,4 @@
+
+Hi
+lets learn devops
+today git
